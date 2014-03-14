@@ -1,0 +1,1 @@
+Command to run application: mvn exec:java -Dexec.mainClass="com.springcontext.Application"
